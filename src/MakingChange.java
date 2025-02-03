@@ -16,7 +16,7 @@ public class MakingChange {
        int ways = 0;
        int[] coin = new int[coins.length];
        // make a recursive code that counts the cobination possible to create a number
-
+        for ()
         return ways;
     }
 
